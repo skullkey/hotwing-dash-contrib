@@ -36,4 +36,4 @@ Fuse DXF;
 * [Fuse Side Back](img/jw48/jw48_nose_back.dxf)
 * [Fuse Top Front](img/jw48/JW48_Nose%20-%20top_front.dxf)
 * [Fuse Top Back](img/jw48/JW48_Nose%20-%20top_back.dxf)
----
+
