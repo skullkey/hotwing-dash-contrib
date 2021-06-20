@@ -40,3 +40,8 @@ Fuse DXF;
 
 ---
 # What will you build next?
+
+You can add content here by commiting changes to https://github.com/skullkey/hotwing-dash-contrib  
+
+* `gallery.md` is this file
+* `img/`  folder for static content 
