@@ -18,8 +18,9 @@ Fuse DXF;
 
 ---
 
-# JW 48 (in progress)
+# JW 48
 ![JW48](img/jw48/three_jw_48.jpeg)
+![JW48](img/jw48/jw48_readytoroll.jpg)
 
 EPS Gcode:
 * [Wing Left](img/jw48/JW48_left_1.25.gcode)
