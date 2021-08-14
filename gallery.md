@@ -51,7 +51,7 @@ XPS Gcode:
 XPS wingtips:
 
 Ribs spacing as follows
-[ribs](img/windburner/ribs.png)
+![ribs](img/windburner/ribs.png)
 
 * [Wing tip1](img/windburner/Windburner_tip1.dxf)
 * [Wing tip2](img/windburner/Windburner_tip2.dxf)
