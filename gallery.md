@@ -53,11 +53,20 @@ XPS wingtips:
 Ribs spacing as follows
 ![ribs](img/windburner/ribs.png)
 
-* [Wing tip1](img/windburner/Windburner_tip1.dxf)
-* [Wing tip2](img/windburner/Windburner_tip2.dxf)
-* [Wing tip3](img/windburner/Windburner_tip3.dxf)
-* [Wing tip4](img/windburner/Windburner_tip4.dxf)
-* [Wing tip5](img/windburner/Windburner_tip5.dxf)
+Gcode:
+* [Wing tip1](img/windburner/Windburner_tip1.gcode)
+* [Wing tip2](img/windburner/Windburner_tip2.gcode)
+* [Wing tip3](img/windburner/Windburner_tip3.gcode)
+* [Wing tip4](img/windburner/Windburner_tip4.gcode)
+* [Wing tip5](img/windburner/Windburner_tip5.gcode)
+
+Ribs Dxf:
+* [Rib1](img/windburner/windburner-rib1.dxf)
+* [Rib2](img/windburner/windburner-rib2.dxf)
+* [Rib3](img/windburner/windburner-rib3.dxf)
+* [Rib4](img/windburner/windburner-rib4.dxf)
+* [Rib5](img/windburner/windburner-rib5.dxf)
+* [Rib6](img/windburner/windburner-rib6.dxf)
 
 Fuse DXF:
       
