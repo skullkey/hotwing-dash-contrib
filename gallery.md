@@ -32,11 +32,39 @@ EPS Gcode:
 
 
 
-Fuse DXF;
+Fuse DXF:
 * [Fuse Side Front](img/jw48/jw48_nose_front.dxf)
 * [Fuse Side Back](img/jw48/jw48_nose_back.dxf)
 * [Fuse Top Front](img/jw48/JW48_Nose%20-%20top_front.dxf)
 * [Fuse Top Back](img/jw48/JW48_Nose%20-%20top_back.dxf)
+
+---
+
+# Windburner
+![WB](img/windburner/windburner.jpg)
+![WB](img/windburner/maiden.jpg)
+
+XPS Gcode:
+* [Wing Left](img/windburner/Windburner.gcode)
+* [Wing Right](img/windburner/Windburner_right.gcode)
+
+XPS wingtips:
+
+Ribs spacing as follows
+[ribs](img/windburner/ribs.png)
+
+* [Wing tip1](img/windburner/Windburner_tip1.dxf)
+* [Wing tip2](img/windburner/Windburner_tip2.dxf)
+* [Wing tip3](img/windburner/Windburner_tip3.dxf)
+* [Wing tip4](img/windburner/Windburner_tip4.dxf)
+* [Wing tip5](img/windburner/Windburner_tip5.dxf)
+
+Fuse DXF:
+      
+* [Fuse Side Front](img/windburner/wb_fuse-side_front.dxf)
+* [Fuse Side Back](img/windburner/wb_fuse-side_back.dxf)
+* [Fuse Top Front](img/windburner/wb_fuse-top_front.dxf)
+* [Fuse Top Back](img/windburner/wb_fuse-top_back.dxf)
 
 ---
 # What will you build next?
