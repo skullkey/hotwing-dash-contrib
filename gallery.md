@@ -76,6 +76,21 @@ Fuse DXF:
 * [Fuse Top Back](img/windburner/wb_fuse-top_back.dxf)
 
 ---
+# DLG Apogee by Mark Drella - fibreglass version by A Filos 
+
+![dlg](img/filos_apogee/P1860662.JPG)
+
+Build Videos:
+https://www.rcgroups.com/forums/showthread.php?3837071-1m-DLG-Build
+
+Gcode:
+* [Left wing](img/filos_apogee/dlg_left.gcode)
+* [Right wing](img/filos_apogee/dlg_right.gcode)
+* [Wing plan](img/filos_apogee/filos-dlg-Bodywingplan.svg)
+* [Horizontal stab](img/filos_apogee/filos-dlg-tailhorizontal.svg)
+* [Vertical stab](img/filos_apogee/filos-dlg-tailrudder.svg)
+
+---
 # What will you build next?
 
 You can add content here by commiting changes to https://github.com/skullkey/hotwing-dash-contrib  
