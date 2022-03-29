@@ -77,7 +77,7 @@ Fuse DXF:
 
 ---
 # KB1 rip-off
-![kb1](img/kb1/kb1.jpg)
+![kb1](img/kb1/kb1_small.jpg)
 
 XPS Gcode:
 
@@ -93,7 +93,7 @@ Fuse:
 ---
 # DLG Apogee by Mark Drella - fibreglass version by A Filos 
 
-![dlg](img/filos_apogee/P1860662.JPG)
+![dlg](img/filos_apogee/filos.JPG)
 
 Build Videos:
 https://www.rcgroups.com/forums/showthread.php?3837071-1m-DLG-Build
