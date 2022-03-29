@@ -76,6 +76,21 @@ Fuse DXF:
 * [Fuse Top Back](img/windburner/wb_fuse-top_back.dxf)
 
 ---
+# KB1 rip-off
+![kb1](img/kb1/kb1.jpg)
+
+XPS Gcode:
+
+* [Left Wing](img/kb1/kb1.gcode)
+* [Right Wing](img/kb1/kb1_left.gcode)
+
+Fuse:
+* [Nose](img/kb1/nose.gcode)
+* [Tail](img/kb1/tail.gcode)
+* [Mid](img/kb1/kb_fuse_front_slot_cut.svg.gcode)
+* [Side](img/kb1/kb_fuse_side.svg.gcode)
+
+---
 # DLG Apogee by Mark Drella - fibreglass version by A Filos 
 
 ![dlg](img/filos_apogee/P1860662.JPG)
